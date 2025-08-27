@@ -57,9 +57,6 @@ The project explores multiple deep learning architectures:
 | Standard LSTM (lag 1)       | **0.977** | 0.0059 | 0.0769 | 0.0555 |
 | **Optimized LSTM **  | **0.988** | 0.0032 | 0.0566 | **0.0399** |
 
-**Key Insight:**  
-The **Optimized LSTM with lag = 5** achieved the **best performance**, significantly reducing prediction error and outperforming both the baseline and attention-based models.
-
 ---
 
 ## 📈 Visualizations
